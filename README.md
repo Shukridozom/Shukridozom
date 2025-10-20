@@ -1,4 +1,3 @@
-```markdown
 ## 👋 About Me
 
 I’m an **Embedded Software Engineer** focused on building **efficient**, **reproducible**, and **scalable** embedded systems.
@@ -8,4 +7,3 @@ With experience across **firmware**, **electronics**, and **PCB design** — as 
 My **multidisciplinary background** enables me to bridge diverse teams by connecting **system-level thinking** with **practical implementation**.
 
 I believe that every collaboration is an opportunity to **learn something new**, grow **technically**, and **professionally**.
-```
